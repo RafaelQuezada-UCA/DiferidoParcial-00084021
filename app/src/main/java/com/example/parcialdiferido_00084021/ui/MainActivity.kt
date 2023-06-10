@@ -1,7 +1,8 @@
-package com.example.parcialdiferido_00084021
+package com.example.parcialdiferido_00084021.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.parcialdiferido_00084021.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
