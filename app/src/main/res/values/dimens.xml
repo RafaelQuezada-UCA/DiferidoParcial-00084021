@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_title">32dp</dimen>
+    <dimen name="text_size_title2">24dp</dimen>
+    <dimen name="text_size_body">16dp</dimen>
+    <dimen name="top_margin"></dimen>
+    <dimen name="bottom_margin"></dimen>
+    <dimen name="left_margin"></dimen>
+    <dimen name="right_margin"></dimen>
+</resources>
